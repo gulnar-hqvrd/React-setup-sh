@@ -1,4 +1,4 @@
-cd adminpanel
+cd admin_panel
 
 cat >src/app/rootReducer.ts <<EOF
 import { combineReducers } from "@reduxjs/toolkit";
